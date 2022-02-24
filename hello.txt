@@ -5,3 +5,5 @@ This is hot-fix update
 This is master update 01  02
 update by hot-fix 01
 update by myself for test pull
+update by git ssh
+test for  after ssh login
