@@ -7,3 +7,4 @@ update by hot-fix 01
 update by myself for test pull
 update by git ssh
 test for  after ssh login
+update after ssh login by master 01111
